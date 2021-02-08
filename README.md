@@ -1,4 +1,4 @@
-# BBS Libirary
+# BBS Library
 [![GoDoc](https://godoc.org/github.com/PichuChen/go-bbs?status.svg)](https://godoc.org/github.com/PichuChen/go-bbs)
 
 
@@ -8,10 +8,13 @@
 
 未來可能會支援 FormosaBBS
 
-
 ## 目前支援的檔案
 
 目前 pttbbs 支援的檔案請見[此處](https://github.com/PichuChen/go-bbs/issues/16)
+ 
+## 給開發者的資訊
+
+[請點此](./FOR_DEVELOPERS.md)
  
 ## 測試方式
 
